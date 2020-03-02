@@ -10,8 +10,9 @@
 #include "Widgets/Layout/SBox.h"
 #include "Widgets/Text/STextBlock.h"
 #include "Framework/MultiBox/MultiBoxBuilder.h"
-
-#include "SlateExtras.h"
+#include "Widgets/Layout/SScrollBox.h"
+#include "Misc/FileHelper.h"
+#include "Widgets/Input/SButton.h"
 
 #include "LevelEditor.h"
 #include "ISettingsModule.h"
