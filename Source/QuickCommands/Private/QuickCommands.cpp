@@ -11,11 +11,9 @@
 #include "Widgets/Text/STextBlock.h"
 #include "Framework/MultiBox/MultiBoxBuilder.h"
 
-#include "SlateBasics.h"
 #include "SlateExtras.h"
 
 #include "LevelEditor.h"
-#include "Engine.h"
 #include "ISettingsModule.h"
 
 static const FName QuickCommandsTabName("QuickCommands");
